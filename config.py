@@ -6,7 +6,7 @@ load_dotenv()
 API_ID = int("15170853")
 API_HASH = ("33f17f7ccfa43fd779489dca8ab67e34")
 
-BOT_TOKEN = ("6519075070:AAEEG-dGleD6ukyhcEmffTsd6jXXOq04GCA")
+BOT_TOKEN = ("6519075070:AAEgDb4uKUitDnE-BBgd1rvamErANMviDwY")
 OWNER_ID = int("5593884330")
 
 MONGO_DB_URI = ("mongodb+srv://islam2005:islam2005@cluster0.rdjot.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
